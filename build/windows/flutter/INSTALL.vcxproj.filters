@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Code\Dart\tutorial\todo_hive_local_storage\build\windows\CMakeFiles\941710e469e9857c021ff0b878d8e638\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{543B3691-C0ED-3908-8969-53974478428A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
